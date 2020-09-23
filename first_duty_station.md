@@ -6,4 +6,4 @@ In this file, type your username and first duty station!
 
 codercarly - Ft. Bragg
 toanhtran - San Diego Naval Base 
-ttran - Sasebo, Japan 
+<!-- ttran - Sasebo, Japan  -->
